@@ -1,4 +1,4 @@
-package fr.waymix.compiler;
+package compiler;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

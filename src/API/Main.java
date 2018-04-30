@@ -2,9 +2,9 @@ package API;
 
 import java.util.ArrayList;
 
-import fr.waymix.compiler.Compiler;
-import fr.waymix.game.Game;
-import fr.waymix.game.Initializer;
+import compiler.Compiler;
+import game.Game;
+import game.Initializer;
 
 public class Main {
 

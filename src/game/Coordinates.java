@@ -1,4 +1,4 @@
-package fr.waymix.game;
+package game;
 
 public class Coordinates {
 

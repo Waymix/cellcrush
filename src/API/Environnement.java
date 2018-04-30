@@ -1,6 +1,6 @@
 package API;
 
-import fr.waymix.game.Coordinates;
+import game.Coordinates;
 
 public class Environnement {
 

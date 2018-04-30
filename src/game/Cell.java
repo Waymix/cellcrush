@@ -1,4 +1,4 @@
-package fr.waymix.game;
+package game;
 // TODO: set the package to arena when send to the users
 // package arena;
 
